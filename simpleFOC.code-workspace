@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../simpleFOC"
+		},
+		{
+			"name": "SimpleFOC_MKS_ODRIVE_MINI",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
